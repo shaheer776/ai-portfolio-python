@@ -102,7 +102,7 @@ python-notes-portfolio/
 ---
 
 ## 📬 Let's Connect
-Coming soon: [[LinkedIn](https://www.linkedin.com/in/shaheer-siddiqui-2931b6212)]
+[[LinkedIn](https://www.linkedin.com/in/shaheer-siddiqui-2931b6212)]
 
 ---
 

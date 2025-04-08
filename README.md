@@ -7,7 +7,7 @@ Welcome to my personal Python notes repository! This space is crafted to help me
 
 ## 🗂️ Folder Structure
 ```
-python-notes-portfolio/
+python-portfolio-ai/
 │
 ├── README.md
 ├── basics/

@@ -2,12 +2,6 @@
 
 Welcome to my personal Python notes repository! This space is crafted to help me revise core Python concepts, document practical applications, and showcase skills as an aspiring AI engineer. This repo is **theory + code**, organized as a modular Jupyter Notebook-based guide.
 
----
-
-## 🎯 Goals
-- Serve as a **learning hub** for Python and key libraries
-- Focused on **Computer Vision** and **AI applications**
-- Easy to read with **theory explanations + code examples**
 
 ---
 

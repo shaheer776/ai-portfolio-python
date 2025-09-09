@@ -1,6 +1,4 @@
-.conda
-
-.gitignore
+.conda/
 
 Python_Libraries/__pycache__
 

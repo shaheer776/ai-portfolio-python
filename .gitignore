@@ -1,0 +1,5 @@
+.conda
+
+Python_Libraries\__pycache__
+
+Generative_AI\.env
